@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Davronn00
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Davronbek
+- 👀 I’m interested in Frontend, Coding, Artificial intelligence.
+- 🌱 I’m currently learning Python programming language.
 - 📫 You can reach me T.me/davronn_00
