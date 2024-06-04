@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Davronn00
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning Python
+- 📫 You can reach me T.me/davronn_00
