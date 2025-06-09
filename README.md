@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Davronbek
-- 👀 I’m interested in Frontend, Coding, Artificial intelligence.
-- 🌱 I’m currently learning Python programming language.
+- 👀 I study MSc Business Informatics at Obuda University
+- 🌱 Aspiring Data analyst
 - 📫 You can reach me T.me/davronn_00
