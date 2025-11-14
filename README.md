@@ -2,3 +2,4 @@
 - 👀 I study MSc Business Informatics at Obuda University
 - 🌱 Aspiring Data analyst
 - 📫 You can reach me T.me/davronn_00
+- [![An image of @davronbek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/davronbek)](https://holopin.io/@davronbek)
